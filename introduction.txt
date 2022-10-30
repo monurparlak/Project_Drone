@@ -1,0 +1,58 @@
+Drone Chapter 1
+
+Communications Protocol Types
+    1. ADC Communication
+    2. INTERRUPT Communication
+    3. ADC Communication
+    4. DMA Communication
+    5. TIMER Communication
+    6. CANBUS Communication
+    7. UART Communication
+    8. I2C Communication
+    9. SPI Communication
+
+Sensors
+    1.  JSN-SR04T
+    2.  RTC
+    3.  PIR SENSOR
+    4.  4X4 KEYPAD
+    5.  MAX6675 Termokupl
+    6.  RGB LED
+    7.  GSM Module
+    8.  MPU6050
+    9.  NRF24L01
+    10. BMP280
+    11. DHT11
+    12. LDR
+    13. Rain sensor
+    14. Flame sensor
+    15. Pingerli Rx/Tx
+    16. Hall Effect sensor
+    17. Microphone sensor
+    18. Current sensor
+    19. IR Rx/Tx one-order
+    20. Lazer Module
+    21. Buzzer
+    22. Camera
+
+Development Kit & Development Enviroment
+    1. STMicroelectronics
+        1.1. Cortex-M3 - STM32F103
+        1.2. LL - SPL - HAL (Software Programming Layers)
+    2. Raspberry PI
+        2.1. Pico (RP2040 - W Version)
+        2.2. SDK ((Software Development Kit)
+    3. Espressif
+        3.1. ESP32 WROOM
+        3.2. IDF (Espressif IoT Development Framework)
+
+Drone Chapter 2
+
+Drone Chapter 3
+
+
+
+
+
+
+
